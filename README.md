@@ -120,4 +120,4 @@ git clone https://github.com/EstefanyRamirez08/PlaneadorGastos.git
 
 Este proyecto sigue en desarrollo. ¡Las sugerencias y mejoras son bienvenidas! 🚀
 
-📌 ¡Gracias por visitar este repositorio! Si te gusta e
+📌 ¡Gracias por visitar este repositorio! Si te gusta el proyecto, dale una ⭐ en GitHub. 😊
